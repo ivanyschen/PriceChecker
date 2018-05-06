@@ -1,0 +1,16 @@
+Price  ---- local ---- id
+                  ---- name
+                  ---- price
+                  ---- unit
+                  ---- time
+                  ---- store
+                  ---- location
+
+
+       ---- online
+                  ---- name
+                  ---- price
+                  ---- unit
+                  ---- time
+                  ---- store
+                  ---- url
